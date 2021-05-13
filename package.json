@@ -22,7 +22,27 @@
     "url": "https://github.com/akileez/colr/issues"
   },
   "license": "ISC",
-  "keywords": [],
+  "keywords": [
+    "ansi",
+    "colr",
+    "colorz",
+    "color",
+    "colors",
+    "colour",
+    "console",
+    "cli",
+    "command-line",
+    "log",
+    "logr",
+    "logging",
+    "str",
+    "string",
+    "style",
+    "styles",
+    "shell",
+    "text",
+    "terminal"
+  ],
   "dependencies": {
   },
   "devDependencies": {
