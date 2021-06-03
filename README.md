@@ -29,6 +29,21 @@ log(`${red('Da')} ${blue('ba')} ${yellow('dee')} ${green('da')} ${cyan('ba')} ${
 ```
 ![colr output](img/colr.png)
 
+## Supported styles
+
+| Colors  | Background Colors | Bright Colors | Bright Background Colors | Modifiers         |
+| ------- | ----------------- | ------------- | ------------------------ | ----------------- |
+| black   | bgBlack           | brBlack       | bbBlack            | dim               |
+| red     | bgRed             | brRed         | bbRed              | **bold**          |
+| green   | bgGreen           | brGreen       | bbGreen            | hidden            |
+| yellow  | bgYellow          | brYellow      | bbYellow           | _italic_          |
+| blue    | bgBlue            | brBlue        | bbBlue             | <u>underline</u>  |
+| magenta | bgMagenta         | brMagenta     | bbMagenta          | ~~strikethrough~~ |
+| cyan    | bgCyan            | brCyan        | bbCyan             | reset             |
+| white   | bgWhite           | brWhite       | bbWhite            |                   |
+| gray    | bgGray            | brGray        | bbGray             |                   |
+| grey    | bgGrey            | brGrey        | bbGrey             |                   |
+
 ### API
 ```js
 
