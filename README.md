@@ -29,7 +29,7 @@ log(`${red('Da')} ${blue('ba')} ${yellow('dee')} ${green('da')} ${cyan('ba')} ${
 ```
 ![colr output](img/colr.png)
 
-## Supported styles
+### Supported styles
 
 | Colors  | Background Colors | Bright Colors | Bright Background Colors | Modifiers         |
 | ------- | ----------------- | ------------- | ------------------------ | ----------------- |
